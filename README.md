@@ -1,6 +1,6 @@
 # egui_drag_value_expr
 
-![Crates.io](https://img.shields.io/crates/v/c3dio.svg)
+![Crates.io](https://img.shields.io/crates/v/egui_drag_value_expr.svg)
 
 An egui DragValue widget that accepts expression-based values.
 
