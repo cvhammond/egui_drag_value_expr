@@ -1,7 +1,15 @@
 [package]
 name = "egui_drag_value_expr"
 version = "0.1.0"
+authors = ["Claire V. Hammond <me@cvhammond.com>"]
 edition = "2021"
+description = "An egui DragValue widget modified to accept a math expression as input."
+categories = ["ui", "egui", "rhai", "math"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/cvhammond/egui_drag_value_expr"
+readme = "README.md"
+keywords = ["egui", "rhai", "math", "ui", "expression"]
+exclude = ["examples", "examples/*"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
