@@ -1,10 +1,10 @@
 [package]
 name = "egui_drag_value_expr"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Claire V. Hammond <me@cvhammond.com>"]
 edition = "2021"
 description = "An egui DragValue widget modified to accept a math expression as input."
-categories = ["ui", "egui", "rhai", "math"]
+categories = ["gui", "game-development"]
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/cvhammond/egui_drag_value_expr"
 readme = "README.md"
