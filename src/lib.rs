@@ -1,5 +1,6 @@
 //! # egui_drag_value_expr
-//! An egui widget that extends the DragValue widget to allow the user to enter an expression to be evaluated by a Rhai expression-only Engine instance.
+//!
+//! An egui DragValue widget that accepts expression-based values.
 //!
 //! ## Usage
 //!
